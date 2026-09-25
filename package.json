@@ -1,0 +1,9 @@
+{
+  "name": "depruuu-core",
+  "private": true,
+  "version": "2.0.0",
+  "description": "DEPRUUU CORE Official Fan Community website",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
